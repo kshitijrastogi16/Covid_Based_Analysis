@@ -1,6 +1,6 @@
 # Covid Based Analysis
 
-## "Machine Learning-Based Research for COVID-19 Analysis and Prediction"
+## Machine Learning-Based Research for COVID-19 Analysis and Prediction
 
 ## Project Overview
 This project leverages machine learning techniques to analyze and predict COVID-19 cases, focusing on both epidemiological and mental health aspects. The research demonstrates the versatility of machine learning in diagnosing, detecting, and forecasting COVID-19 cases, and extends to predicting mental health outcomes, particularly among pregnant women.
