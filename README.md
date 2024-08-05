@@ -17,8 +17,8 @@ SRM Institute of Science and Technology, Chennai, India
 The study utilizes machine learning to perform comprehensive analyses on COVID-19 datasets, including country-wise and month-wise assessments, to discern transmission patterns. Predictive models, specifically logistic regression, were employed to forecast the pandemic's death rate with an accuracy of 84.15%. Additionally, mental health implications were analyzed, achieving a prediction accuracy of 91.84% for outcomes among pregnant women. The findings highlight machine learning’s potential in informing public health strategies and enhancing preparedness for future health crises.
 
 ## Keywords
-COVID-19
-Machine Learning
+COVID-19,
+Machine Learning,
 Logistic Regression
 
 ## Introduction
