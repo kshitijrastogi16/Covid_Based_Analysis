@@ -6,8 +6,8 @@
 This project leverages machine learning techniques to analyze and predict COVID-19 cases, focusing on both epidemiological and mental health aspects. The research demonstrates the versatility of machine learning in diagnosing, detecting, and forecasting COVID-19 cases, and extends to predicting mental health outcomes, particularly among pregnant women.
 
 ## Authors
-Tejashri Chavan
-Kshitij Rastogi
+Tejashri Chavan,
+Kshitij Rastogi,
 Esha Rai
 
 ## Institution
